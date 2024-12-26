@@ -1,7 +1,7 @@
 ### hello world, eu sou a Agatha! 👋
 
-- 🔭 Dev Java Jr pela Capgemini/Bradesco.
-- 🔭 Curso analises e desenvolvimento de sistemas (4/5).
+- 🔭 Dev Java Pleno pela Ci&t/Lifescan.
+- 🔭 Analises e desenvolvimento de sistemas (5/5).
 
 <div align="center">
   <a href="https://github.com/agathalouise">
